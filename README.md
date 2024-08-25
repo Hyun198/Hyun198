@@ -4,7 +4,7 @@
 
 
 
-<div align="center" style="background-color: #f0f0f0; padding: 10px; border-radius: 10px;">
+<div align="center" style="background-color: #000; padding: 10px; border-radius: 10px;">
  <h2>⚡Tech Stack⚡</h2>
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" alt="javascript" />
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
