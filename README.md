@@ -1,6 +1,9 @@
-<div align="center">
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2C72F7&center=true&width=435&lines=HI+i'm+hyun;Trying+to+be+Front+Enginner;Quick+fox+jumps+nightly+above+wizard)](https://git.io/typing-svg)
-</div>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=4000&pause=1000&color=1F46F7&center=true&width=435&lines=Hi+i'm+hyun;Trying+to+be+Front+Engineer" alt="Typing SVG" />
+  </a>
+</p>
+
 
 
 
