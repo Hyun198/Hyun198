@@ -16,7 +16,7 @@
  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
 </div>
 
-<div align="center">
+<div  align="center" style="padding: 30px; ">
 <h2>🎮Studying🎮</h2>
  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/>
@@ -24,15 +24,17 @@
 </div>
 
 
-<div align="center">
-<h2>🛠Tools</h2>
+<div  align="center" style="padding: 30px;">
+<h2 >🛠Tools</h2>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
 <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode"/>
 </div>
 
 
 <div align="center">
-  <h3>I made some projects...</h3>
+  <h3 style="font-size: 20px; text-align: center;">
+  I made some projects...
+</h3>
   <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap; overflow-x: auto;">
     <img src="https://github.com/Hyun198/spotify_final/raw/master/assets/image.png" alt="spotify" style="width: 400px; height: 400px;"/>
     <img src="https://github.com/user-attachments/assets/972b9300-45b0-4eec-ac87-b892dbd46a27" alt="cgv" style="width: 400px; height: 400px;"/>
