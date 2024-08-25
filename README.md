@@ -1,3 +1,5 @@
 <h1>Hii I'm Hyun </h1>
 
-![Welcome](https://capsule-render.vercel.app/api?color=gradient&customColorList=0,2,2,5,30)
+<div align="center">
+  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+</div>
