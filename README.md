@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=cylinder&height=299&color=gradient&text=Hyun%20github&textBg=false&animation=twinkling" />
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2C72F7&center=true&width=435&lines=HI+i'm+hyun;Trying+to+be+Front+Enginner;Quick+fox+jumps+nightly+above+wizard)](https://git.io/typing-svg)
 </div>
 
 
