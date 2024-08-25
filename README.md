@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<!--
-**Hyun198/Hyun198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>HI I'm hyun</h1>
+<h2>Want to be Front-end engineer</h2>
 
 Here are some ideas to get you started:
 
