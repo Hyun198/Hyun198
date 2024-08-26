@@ -32,14 +32,14 @@
 
 
 <div align="center">
-  <h3 style="font-size: 20px; text-align: center;">
-  I made some projects...
-</h3>
+  <h3 style="font-size: 20px; text-align: center;"></h3>
+<h2>💻Projects</h2>
+
   <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap; overflow-x: auto;">
-    <img src="https://github.com/Hyun198/spotify_final/raw/master/assets/image.png" alt="spotify" style="width: 400px; height: 400px;"/>
-    <img src="https://github.com/user-attachments/assets/972b9300-45b0-4eec-ac87-b892dbd46a27" alt="cgv" style="width: 400px; height: 400px;"/>
-    <img src="https://github.com/user-attachments/assets/6237e0fe-3459-4b9d-8bef-0b76978cf239" alt="e-commerce" style="width: 400px; height: 400px;"/>
-    <img src="https://github.com/user-attachments/assets/3a6b9373-3cb9-4e87-b797-51fdfdfd3711" alt="universe-app" style="width: 400px; height: 400px">
+    <img src="https://github.com/Hyun198/spotify_final/raw/master/assets/image.png" alt="spotify" style="width: 500px; height: 400px;"/>
+    <img src="https://github.com/user-attachments/assets/972b9300-45b0-4eec-ac87-b892dbd46a27" alt="cgv" style="width: 500px; height: 400px;"/>
+    <img src="https://github.com/user-attachments/assets/6237e0fe-3459-4b9d-8bef-0b76978cf239" alt="e-commerce" style="width: 500px; height: 400px;"/>
+    <img src="https://github.com/user-attachments/assets/3a6b9373-3cb9-4e87-b797-51fdfdfd3711" alt="universe-app" style="width: 500px; height: 400px">
   </div>
 </div>
 
