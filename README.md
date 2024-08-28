@@ -4,10 +4,10 @@
 </div>
 
 <h2>👏Introduction</h2>
-   <p> 개인,팀 프로젝트를 통해 <span style="color: blue">프론트 엔드 개발자</span>로서의 역량을 기르고 있습니다. <br>
-    열정으로 가득한 신입 개발자 지망생입니다.</p>
-    I am developing my capabilities as a front-end developer through individual, team projects. <br>
-    I'm an aspiring developer full of passion
+   개발자로서의 능력을 길러 사용자의 경험, 편의 , 삶의 질 향상을 위해 노력하는
+   열정으로 가득한 프론트엔드 신입 개발자입니다.
+   
+   <h3 align="center">Developing Digital Experiences That Bring Your Vision To Life.</h3>
     
 <div style="display:flex">
  <h2>⚡Tech Stack⚡</h2>
@@ -34,11 +34,6 @@
 </div>
 
 
-
-<div align="center">
-  <h3 style="font-size: 20px; text-align: center;"></h3>
-<h2>💻Projects</h2>
-</div>
 
 
 
