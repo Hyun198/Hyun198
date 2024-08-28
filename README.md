@@ -36,7 +36,6 @@
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/529286603361746944) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/1mir_maru/) 
----
 
 <h2 algin="center">✨오늘의 개발 한마디</h2>
 <p align="middle" position="absolute">
