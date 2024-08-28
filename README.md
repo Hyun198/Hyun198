@@ -33,6 +33,10 @@
     
 </div>
 
+<h2 algin="center">✨오늘의 개발 한마디</h2>
+<p align="middle" position="absolute">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Quotes">
+</p>
 
 
 
