@@ -28,8 +28,7 @@
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyun198&layout=compact)
   
-  [![Solved.ac
-  프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwn123h)](https://solved.ac/hwn123h)
+
     
 </div>
 
