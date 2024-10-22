@@ -22,9 +22,11 @@
 </div>
 <div style="display:flex">
 <h2>Studying✏</h2>
- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
+ <!-- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/> -->
+
  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/>
  <img src="https://img.shields.io/badge/ReactQuery-20232A?style=for-the-badge&logo=react&logoColor=61DAF" alt="react-query"/>
+ <img src="https://img.shields.io/badge/NextJS-20232A?style=for-the-badge&logo=react&logoColor=61DAF" alt="Next-js"/>
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyun198&layout=compact)
   
