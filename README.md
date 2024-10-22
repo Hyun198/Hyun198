@@ -26,7 +26,7 @@
 
  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/>
  <img src="https://img.shields.io/badge/ReactQuery-20232A?style=for-the-badge&logo=react&logoColor=61DAF" alt="react-query"/>
- <img src="https://img.shields.io/badge/NextJS-20232A?style=for-the-badge&logo=react&logoColor=61DAF" alt="Next-js"/>
+ <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next-js"/>
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyun198&layout=compact)
   
