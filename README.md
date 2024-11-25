@@ -28,6 +28,7 @@
  <img src="https://img.shields.io/badge/ReactQuery-20232A?style=for-the-badge&logo=react&logoColor=61DAF" alt="react-query"/>
  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next-js"/>
  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
+
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyun198&layout=compact)
   
 
