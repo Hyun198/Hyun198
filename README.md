@@ -4,8 +4,7 @@
 </div>
 
 <h2>👏Introduction</h2>
-   개발자로서의 능력을 길러 사용자의 경험, 편의 , 삶의 질 향상을 위해 노력하는
-   열정으로 가득한 프론트엔드 신입 개발자입니다.
+   다양한 분야에서 제가 가진 기술을 활용해 사용자에게 경험, 편의, 삶의 질 향상을 위해 노력하는 <strong>프론트엔드</strong> 신입 개발자입니다.
    
    <h3 align="center">Developing Digital Experiences That Bring Your Vision To Life.</h3>
     
