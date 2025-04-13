@@ -4,9 +4,9 @@
 </div>
 
 <h2>👏Introduction</h2>
-   다양한 사람과의 소통 경험을 바탕으로, 사람을 이해하고 기술 너머의 불편함 까지 짚어낼 수 있는 <strong>개발자</strong>
+   <div align="center">다양한 사람과의 소통 경험을 바탕의 사람을 이해하는 힘을 가지고 기술 너머의 불편함 까지 짚어낼 수 있는 <strong>개발자</strong></div>
    
-   <h3 align="center">Developing Digital Experiences That Bring Your Vision To Life.</h3>
+   <h3 align="center">Understand. Experience. Beyond the Technology</h3>
     
 <div style="display:flex">
  <h2>⚡Tech Stack⚡</h2>
@@ -20,15 +20,7 @@
    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
 </div>
 <div style="display:flex">
-<h2>Studying✏</h2>
- <!-- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/> -->
 
- <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/>
- <img src="https://img.shields.io/badge/ReactQuery-20232A?style=for-the-badge&logo=react&logoColor=61DAF" alt="react-query"/>
- <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next-js"/>
- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyun198&layout=compact)
   
 
     
